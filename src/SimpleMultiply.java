@@ -6,7 +6,7 @@ public class SimpleMultiply {
         a = 6;
         b = 68;
         c = a*b; //integer number to keep the result of multiplication
-        System.out.println("5*58 = " + c);
+        System.out.println(c);
     }
 }
 
